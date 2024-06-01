@@ -4,3 +4,6 @@ whatsup
 epam system
 cornerstone
 blue berry
+dell
+jp morgan
+fellow
